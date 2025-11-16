@@ -1,6 +1,6 @@
-# Apache Spark Course
+# Taming Big Data with Apache Spark 4 and Python - Sundog Education
 
-The course covers the fundamental and advanced components of the Apache Spark ecosystem. Topics include:
+I finished this course, which covers the fundamental and advanced components of the Apache Spark ecosystem. Topics include:
 
 - Installation and execution of Apache Spark in both local and cluster environments (Hadoop YARN and Amazon EMR).
 
@@ -19,3 +19,7 @@ The course covers the fundamental and advanced components of the Apache Spark ec
 - Use of GraphX for graph and network analysis.
 
 - Performance tuning and troubleshooting of Spark jobs running in clustered environments.
+
+
+[Course link](https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/?couponCode=KEEPLEARNING)
+
